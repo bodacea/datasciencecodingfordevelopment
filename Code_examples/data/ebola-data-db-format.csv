@@ -1,0 +1,1067 @@
+Indicator,Country,Date,value
+Cumulative number of confirmed Ebola cases,Guinea,2014-08-29,482
+Cumulative number of probable  Ebola cases,Guinea,2014-08-29,141
+Cumulative number of suspected Ebola cases,Guinea,2014-08-29,25
+"Cumulative number of confirmed, probable and suspected Ebola cases",Guinea,2014-08-29,648
+Cumulative number of confirmed Ebola cases,Liberia,2014-08-29,322
+Cumulative number of probable  Ebola cases,Liberia,2014-08-29,674
+Cumulative number of suspected Ebola cases,Liberia,2014-08-29,382
+"Cumulative number of confirmed, probable and suspected Ebola cases",Liberia,2014-08-29,1378
+Cumulative number of confirmed Ebola cases,Sierra Leone,2014-08-29,935
+Cumulative number of probable  Ebola cases,Sierra Leone,2014-08-29,37
+Cumulative number of suspected Ebola cases,Sierra Leone,2014-08-29,54
+"Cumulative number of confirmed, probable and suspected Ebola cases",Sierra Leone,2014-08-29,1026
+Cumulative number of confirmed Ebola cases,Nigeria,2014-08-29,15
+Cumulative number of probable  Ebola cases,Nigeria,2014-08-29,1
+Cumulative number of suspected Ebola cases,Nigeria,2014-08-29,3
+"Cumulative number of confirmed, probable and suspected Ebola cases",Nigeria,2014-08-29,19
+Number of confirmed Ebola cases in the last 21 days,Guinea,2014-08-29,131
+Number of probable Ebola cases in the last 21 days,Guinea,2014-08-29,7
+Number of suspected Ebola cases in the last 21 days,Guinea,2014-08-29,20
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Guinea,2014-08-29,158
+Number of confirmed Ebola cases in the last 21 days,Liberia,2014-08-29,192
+Number of probable Ebola cases in the last 21 days,Liberia,2014-08-29,423
+Number of suspected Ebola cases in the last 21 days,Liberia,2014-08-29,251
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Liberia,2014-08-29,866
+Number of confirmed Ebola cases in the last 21 days,Sierra Leone,2014-08-29,308
+Number of probable Ebola cases in the last 21 days,Sierra Leone,2014-08-29,4
+Number of suspected Ebola cases in the last 21 days,Sierra Leone,2014-08-29,19
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Sierra Leone,2014-08-29,331
+Number of confirmed Ebola cases in the last 21 days,Nigeria,2014-08-29,6
+Number of probable Ebola cases in the last 21 days,Nigeria,2014-08-29,1
+Number of suspected Ebola cases in the last 21 days,Nigeria,2014-08-29,3
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Nigeria,2014-08-29,10
+Proportion of confirmed Ebola cases that are from the last 21 days,Guinea,2014-08-29,27
+Proportion of probable Ebola cases that are from the last 21 days,Guinea,2014-08-29,5
+Proportion of suspected Ebola cases that are from the last 21 days,Guinea,2014-08-29,80
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Guinea,2014-08-29,24
+Proportion of confirmed Ebola cases that are from the last 21 days,Liberia,2014-08-29,60
+Proportion of probable Ebola cases that are from the last 21 days,Liberia,2014-08-29,63
+Proportion of suspected Ebola cases that are from the last 21 days,Liberia,2014-08-29,66
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Liberia,2014-08-29,63
+Proportion of confirmed Ebola cases that are from the last 21 days,Sierra Leone,2014-08-29,33
+Proportion of probable Ebola cases that are from the last 21 days,Sierra Leone,2014-08-29,11
+Proportion of suspected Ebola cases that are from the last 21 days,Sierra Leone,2014-08-29,35
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Sierra Leone,2014-08-29,32
+Proportion of confirmed Ebola cases that are from the last 21 days,Nigeria,2014-08-29,40
+Proportion of probable Ebola cases that are from the last 21 days,Nigeria,2014-08-29,100
+Proportion of suspected Ebola cases that are from the last 21 days,Nigeria,2014-08-29,100
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Nigeria,2014-08-29,53
+Cumulative number of confirmed Ebola deaths,Guinea,2014-08-29,287
+Cumulative number of probable  Ebola deaths,Guinea,2014-08-29,141
+Cumulative number of suspected Ebola deaths,Guinea,2014-08-29,2
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Guinea,2014-08-29,430
+Cumulative number of confirmed Ebola deaths,Liberia,2014-08-29,225
+Cumulative number of probable  Ebola deaths,Liberia,2014-08-29,301
+Cumulative number of suspected Ebola deaths,Liberia,2014-08-29,168
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Liberia,2014-08-29,694
+Cumulative number of confirmed Ebola deaths,Sierra Leone,2014-08-29,380
+Cumulative number of probable  Ebola deaths,Sierra Leone,2014-08-29,34
+Cumulative number of suspected Ebola deaths,Sierra Leone,2014-08-29,8
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Sierra Leone,2014-08-29,422
+Cumulative number of confirmed Ebola deaths,Nigeria,2014-08-29,6
+Cumulative number of probable  Ebola deaths,Nigeria,2014-08-29,1
+Cumulative number of suspected Ebola deaths,Nigeria,2014-08-29,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Nigeria,2014-08-29,7
+Number of confirmed Ebola deaths in the last 21 days,Guinea,2014-08-29,8
+Number of probable Ebola deaths in the last 21 days,Guinea,2014-08-29,0
+Number of suspected Ebola deaths in the last 21 days,Guinea,2014-08-29,0
+"Number of confirmed, probable and suspected Ebola deaths in the last 21 days",Guinea,2014-08-29,8
+Number of confirmed Ebola deaths in the last 21 days,Liberia,2014-08-29,16
+Number of probable Ebola deaths in the last 21 days,Liberia,2014-08-29,24
+Number of suspected Ebola deaths in the last 21 days,Liberia,2014-08-29,14
+"Number of confirmed, probable and suspected Ebola deaths in the last 21 days",Liberia,2014-08-29,54
+Number of confirmed Ebola deaths in the last 21 days,Sierra Leone,2014-08-29,35
+Number of probable Ebola deaths in the last 21 days,Sierra Leone,2014-08-29,2
+Number of suspected Ebola deaths in the last 21 days,Sierra Leone,2014-08-29,2
+"Number of confirmed, probable and suspected Ebola deaths in the last 21 days",Sierra Leone,2014-08-29,39
+Number of confirmed Ebola deaths in the last 21 days,Nigeria,2014-08-29,4
+Number of probable Ebola deaths in the last 21 days,Nigeria,2014-08-29,0
+Number of suspected Ebola deaths in the last 21 days,Nigeria,2014-08-29,0
+"Number of confirmed, probable and suspected Ebola deaths in the last 21 days",Nigeria,2014-08-29,4
+Proportion of confirmed Ebola deaths that are from the last 21 days,Guinea,2014-08-29,3
+Proportion of probable Ebola deaths that are from the last 21 days,Guinea,2014-08-29,0
+Proportion of suspected Ebola deaths that are from the last 21 days,Guinea,2014-08-29,0
+"Proportion of confirmed, probable and suspected Ebola deaths that are from the last 21 days",Guinea,2014-08-29,2
+Proportion of confirmed Ebola deaths that are from the last 21 days,Liberia,2014-08-29,7
+Proportion of probable Ebola deaths that are from the last 21 days,Liberia,2014-08-29,8
+Proportion of suspected Ebola deaths that are from the last 21 days,Liberia,2014-08-29,8
+"Proportion of confirmed, probable and suspected Ebola deaths that are from the last 21 days",Liberia,2014-08-29,8
+Proportion of confirmed Ebola deaths that are from the last 21 days,Sierra Leone,2014-08-29,9
+Proportion of probable Ebola deaths that are from the last 21 days,Sierra Leone,2014-08-29,6
+Proportion of suspected Ebola deaths that are from the last 21 days,Sierra Leone,2014-08-29,25
+"Proportion of confirmed, probable and suspected Ebola deaths that are from the last 21 days",Sierra Leone,2014-08-29,9
+Proportion of confirmed Ebola deaths that are from the last 21 days,Nigeria,2014-08-29,67
+Proportion of probable Ebola deaths that are from the last 21 days,Nigeria,2014-08-29,0
+"Proportion of confirmed, probable and suspected Ebola deaths that are from the last 21 days",Nigeria,2014-08-29,57
+Case fatality rate (CFR) of confirmed Ebola cases,Guinea,2014-08-29,60
+Case fatality rate (CFR) of probable  Ebola cases,Guinea,2014-08-29,100
+Case fatality rate (CFR) of suspected Ebola cases,Guinea,2014-08-29,8
+"Case fatality rate (CFR) of confirmed, probable and suspected Ebola cases",Guinea,2014-08-29,66
+Case fatality rate (CFR) of confirmed Ebola cases,Liberia,2014-08-29,70
+Case fatality rate (CFR) of probable  Ebola cases,Liberia,2014-08-29,45
+Case fatality rate (CFR) of suspected Ebola cases,Liberia,2014-08-29,44
+"Case fatality rate (CFR) of confirmed, probable and suspected Ebola cases",Liberia,2014-08-29,50
+Case fatality rate (CFR) of confirmed Ebola cases,Sierra Leone,2014-08-29,41
+Case fatality rate (CFR) of probable  Ebola cases,Sierra Leone,2014-08-29,92
+Case fatality rate (CFR) of suspected Ebola cases,Sierra Leone,2014-08-29,15
+"Case fatality rate (CFR) of confirmed, probable and suspected Ebola cases",Sierra Leone,2014-08-29,41
+Case fatality rate (CFR) of confirmed Ebola cases,Nigeria,2014-08-29,40
+Case fatality rate (CFR) of probable  Ebola cases,Nigeria,2014-08-29,100
+Case fatality rate (CFR) of suspected Ebola cases,Nigeria,2014-08-29,0
+"Case fatality rate (CFR) of confirmed, probable and suspected Ebola cases",Nigeria,2014-08-29,37
+Cumulative number of confirmed Ebola cases,Guinea,2014-09-05,604
+Cumulative number of probable  Ebola cases,Guinea,2014-09-05,152
+Cumulative number of suspected Ebola cases,Guinea,2014-09-05,56
+"Cumulative number of confirmed, probable and suspected Ebola cases",Guinea,2014-09-05,812
+Cumulative number of confirmed Ebola cases,Liberia,2014-09-05,614
+Cumulative number of probable  Ebola cases,Liberia,2014-09-05,888
+Cumulative number of suspected Ebola cases,Liberia,2014-09-05,369
+"Cumulative number of confirmed, probable and suspected Ebola cases",Liberia,2014-09-05,1871
+Cumulative number of confirmed Ebola cases,Sierra Leone,2014-09-05,1146
+Cumulative number of probable  Ebola cases,Sierra Leone,2014-09-05,37
+Cumulative number of suspected Ebola cases,Sierra Leone,2014-09-05,78
+"Cumulative number of confirmed, probable and suspected Ebola cases",Sierra Leone,2014-09-05,1261
+Cumulative number of confirmed Ebola cases,Nigeria,2014-09-05,18
+Cumulative number of probable  Ebola cases,Nigeria,2014-09-05,1
+Cumulative number of suspected Ebola cases,Nigeria,2014-09-05,3
+"Cumulative number of confirmed, probable and suspected Ebola cases",Nigeria,2014-09-05,22
+Cumulative number of confirmed Ebola cases,Senegal,2014-09-05,1
+"Cumulative number of confirmed, probable and suspected Ebola cases",Senegal,2014-09-05,1
+Number of confirmed Ebola cases in the last 21 days,Guinea,2014-09-05,226
+Number of probable Ebola cases in the last 21 days,Guinea,2014-09-05,19
+Number of suspected Ebola cases in the last 21 days,Guinea,2014-09-05,44
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Guinea,2014-09-05,289
+Number of confirmed Ebola cases in the last 21 days,Liberia,2014-09-05,414
+Number of probable Ebola cases in the last 21 days,Liberia,2014-09-05,444
+Number of suspected Ebola cases in the last 21 days,Liberia,2014-09-05,179
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Liberia,2014-09-05,1037
+Number of confirmed Ebola cases in the last 21 days,Sierra Leone,2014-09-05,396
+Number of probable Ebola cases in the last 21 days,Sierra Leone,2014-09-05,0
+Number of suspected Ebola cases in the last 21 days,Sierra Leone,2014-09-05,37
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Sierra Leone,2014-09-05,433
+Number of confirmed Ebola cases in the last 21 days,Nigeria,2014-09-05,7
+Number of probable Ebola cases in the last 21 days,Nigeria,2014-09-05,0
+Number of suspected Ebola cases in the last 21 days,Nigeria,2014-09-05,2
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Nigeria,2014-09-05,9
+Number of confirmed Ebola cases in the last 21 days,Senegal,2014-09-05,1
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Senegal,2014-09-05,1
+Proportion of confirmed Ebola cases that are from the last 21 days,Guinea,2014-09-05,37
+Proportion of probable Ebola cases that are from the last 21 days,Guinea,2014-09-05,13
+Proportion of suspected Ebola cases that are from the last 21 days,Guinea,2014-09-05,79
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Guinea,2014-09-05,36
+Proportion of confirmed Ebola cases that are from the last 21 days,Liberia,2014-09-05,67
+Proportion of probable Ebola cases that are from the last 21 days,Liberia,2014-09-05,50
+Proportion of suspected Ebola cases that are from the last 21 days,Liberia,2014-09-05,49
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Liberia,2014-09-05,55
+Proportion of confirmed Ebola cases that are from the last 21 days,Sierra Leone,2014-09-05,35
+Proportion of probable Ebola cases that are from the last 21 days,Sierra Leone,2014-09-05,0
+Proportion of suspected Ebola cases that are from the last 21 days,Sierra Leone,2014-09-05,47
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Sierra Leone,2014-09-05,34
+Proportion of confirmed Ebola cases that are from the last 21 days,Nigeria,2014-09-05,39
+Proportion of probable Ebola cases that are from the last 21 days,Nigeria,2014-09-05,0
+Proportion of suspected Ebola cases that are from the last 21 days,Nigeria,2014-09-05,67
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Nigeria,2014-09-05,41
+Proportion of probable Ebola cases that are from the last 21 days,Senegal,2014-09-05,100
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Senegal,2014-09-05,100
+Cumulative number of confirmed Ebola deaths,Guinea,2014-09-05,362
+Cumulative number of probable  Ebola deaths,Guinea,2014-09-05,152
+Cumulative number of suspected Ebola deaths,Guinea,2014-09-05,3
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Guinea,2014-09-05,517
+Cumulative number of confirmed Ebola deaths,Liberia,2014-09-05,431
+Cumulative number of probable  Ebola deaths,Liberia,2014-09-05,401
+Cumulative number of suspected Ebola deaths,Liberia,2014-09-05,257
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Liberia,2014-09-05,1089
+Cumulative number of confirmed Ebola deaths,Sierra Leone,2014-09-05,443
+Cumulative number of probable  Ebola deaths,Sierra Leone,2014-09-05,37
+Cumulative number of suspected Ebola deaths,Sierra Leone,2014-09-05,11
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Sierra Leone,2014-09-05,491
+Cumulative number of confirmed Ebola deaths,Nigeria,2014-09-05,7
+Cumulative number of probable  Ebola deaths,Nigeria,2014-09-05,1
+Cumulative number of suspected Ebola deaths,Nigeria,2014-09-05,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Nigeria,2014-09-05,8
+Cumulative number of confirmed Ebola deaths,Senegal,2014-09-05,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Senegal,2014-09-05,0
+Number of confirmed Ebola deaths in the last 21 days,Guinea,2014-09-05,117
+Number of probable Ebola deaths in the last 21 days,Guinea,2014-09-05,19
+Number of suspected Ebola deaths in the last 21 days,Guinea,2014-09-05,1
+"Number of confirmed, probable and suspected Ebola deaths in the last 21 days",Guinea,2014-09-05,137
+Number of confirmed Ebola deaths in the last 21 days,Liberia,2014-09-05,253
+Number of probable Ebola deaths in the last 21 days,Liberia,2014-09-05,199
+Number of suspected Ebola deaths in the last 21 days,Liberia,2014-09-05,171
+"Number of confirmed, probable and suspected Ebola deaths in the last 21 days",Liberia,2014-09-05,623
+Number of confirmed Ebola deaths in the last 21 days,Sierra Leone,2014-09-05,127
+Number of probable Ebola deaths in the last 21 days,Sierra Leone,2014-09-05,3
+Number of suspected Ebola deaths in the last 21 days,Sierra Leone,2014-09-05,6
+"Number of confirmed, probable and suspected Ebola deaths in the last 21 days",Sierra Leone,2014-09-05,136
+Number of confirmed Ebola deaths in the last 21 days,Nigeria,2014-09-05,3
+Number of probable Ebola deaths in the last 21 days,Nigeria,2014-09-05,1
+Number of suspected Ebola deaths in the last 21 days,Nigeria,2014-09-05,0
+"Number of confirmed, probable and suspected Ebola deaths in the last 21 days",Nigeria,2014-09-05,4
+Number of confirmed Ebola deaths in the last 21 days,Senegal,2014-09-05,0
+"Number of confirmed, probable and suspected Ebola deaths in the last 21 days",Senegal,2014-09-05,0
+Proportion of confirmed Ebola deaths that are from the last 21 days,Guinea,2014-09-05,32
+Proportion of probable Ebola deaths that are from the last 21 days,Guinea,2014-09-05,13
+Proportion of suspected Ebola deaths that are from the last 21 days,Guinea,2014-09-05,33
+"Proportion of confirmed, probable and suspected Ebola deaths that are from the last 21 days",Guinea,2014-09-05,26
+Proportion of confirmed Ebola deaths that are from the last 21 days,Liberia,2014-09-05,59
+Proportion of probable Ebola deaths that are from the last 21 days,Liberia,2014-09-05,50
+Proportion of suspected Ebola deaths that are from the last 21 days,Liberia,2014-09-05,67
+"Proportion of confirmed, probable and suspected Ebola deaths that are from the last 21 days",Liberia,2014-09-05,57
+Proportion of confirmed Ebola deaths that are from the last 21 days,Sierra Leone,2014-09-05,29
+Proportion of probable Ebola deaths that are from the last 21 days,Sierra Leone,2014-09-05,8
+Proportion of suspected Ebola deaths that are from the last 21 days,Sierra Leone,2014-09-05,55
+"Proportion of confirmed, probable and suspected Ebola deaths that are from the last 21 days",Sierra Leone,2014-09-05,28
+Proportion of confirmed Ebola deaths that are from the last 21 days,Nigeria,2014-09-05,43
+Proportion of probable Ebola deaths that are from the last 21 days,Nigeria,2014-09-05,100
+Proportion of suspected Ebola deaths that are from the last 21 days,Nigeria,2014-09-05,0
+"Proportion of confirmed, probable and suspected Ebola deaths that are from the last 21 days",Nigeria,2014-09-05,50
+Proportion of confirmed Ebola deaths that are from the last 21 days,Senegal,2014-09-05,0
+"Proportion of confirmed, probable and suspected Ebola deaths that are from the last 21 days",Senegal,2014-09-05,0
+Case fatality rate (CFR) of confirmed Ebola cases,Guinea,2014-09-05,60
+Case fatality rate (CFR) of probable  Ebola cases,Guinea,2014-09-05,100
+Case fatality rate (CFR) of suspected Ebola cases,Guinea,2014-09-05,5
+"Case fatality rate (CFR) of confirmed, probable and suspected Ebola cases",Guinea,2014-09-05,64
+Case fatality rate (CFR) of confirmed Ebola cases,Liberia,2014-09-05,70
+Case fatality rate (CFR) of probable  Ebola cases,Liberia,2014-09-05,45
+Case fatality rate (CFR) of suspected Ebola cases,Liberia,2014-09-05,70
+"Case fatality rate (CFR) of confirmed, probable and suspected Ebola cases",Liberia,2014-09-05,58
+Case fatality rate (CFR) of confirmed Ebola cases,Sierra Leone,2014-09-05,39
+Case fatality rate (CFR) of probable  Ebola cases,Sierra Leone,2014-09-05,100
+Case fatality rate (CFR) of suspected Ebola cases,Sierra Leone,2014-09-05,14
+"Case fatality rate (CFR) of confirmed, probable and suspected Ebola cases",Sierra Leone,2014-09-05,39
+Case fatality rate (CFR) of confirmed Ebola cases,Nigeria,2014-09-05,39
+Case fatality rate (CFR) of probable  Ebola cases,Nigeria,2014-09-05,100
+Case fatality rate (CFR) of suspected Ebola cases,Nigeria,2014-09-05,0
+"Case fatality rate (CFR) of confirmed, probable and suspected Ebola cases",Nigeria,2014-09-05,36
+Case fatality rate (CFR) of confirmed Ebola cases,Senegal,2014-09-05,0
+"Case fatality rate (CFR) of confirmed, probable and suspected Ebola cases",Senegal,2014-09-05,0
+Cumulative number of confirmed Ebola cases,Guinea,2014-09-08,664
+Cumulative number of probable  Ebola cases,Guinea,2014-09-08,151
+Cumulative number of suspected Ebola cases,Guinea,2014-09-08,47
+"Cumulative number of confirmed, probable and suspected Ebola cases",Guinea,2014-09-08,862
+Cumulative number of confirmed Ebola cases,Liberia,2014-09-08,634
+Cumulative number of probable  Ebola cases,Liberia,2014-09-08,969
+Cumulative number of suspected Ebola cases,Liberia,2014-09-08,443
+"Cumulative number of confirmed, probable and suspected Ebola cases",Liberia,2014-09-08,2046
+Cumulative number of confirmed Ebola cases,Sierra Leone,2014-09-08,1234
+Cumulative number of probable  Ebola cases,Sierra Leone,2014-09-08,37
+Cumulative number of suspected Ebola cases,Sierra Leone,2014-09-08,90
+"Cumulative number of confirmed, probable and suspected Ebola cases",Sierra Leone,2014-09-08,1361
+Cumulative number of confirmed Ebola cases,Nigeria,2014-09-08,19
+Cumulative number of probable  Ebola cases,Nigeria,2014-09-08,1
+Cumulative number of suspected Ebola cases,Nigeria,2014-09-08,1
+"Cumulative number of confirmed, probable and suspected Ebola cases",Nigeria,2014-09-08,21
+Cumulative number of confirmed Ebola cases,Senegal,2014-09-08,1
+Cumulative number of probable  Ebola cases,Senegal,2014-09-08,0
+Cumulative number of suspected Ebola cases,Senegal,2014-09-08,2
+"Cumulative number of confirmed, probable and suspected Ebola cases",Senegal,2014-09-08,3
+Number of confirmed Ebola cases in the last 21 days,Guinea,2014-09-08,286
+Number of probable Ebola cases in the last 21 days,Guinea,2014-09-08,18
+Number of suspected Ebola cases in the last 21 days,Guinea,2014-09-08,35
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Guinea,2014-09-08,339
+Number of confirmed Ebola cases in the last 21 days,Liberia,2014-09-08,434
+Number of probable Ebola cases in the last 21 days,Liberia,2014-09-08,525
+Number of suspected Ebola cases in the last 21 days,Liberia,2014-09-08,253
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Liberia,2014-09-08,1212
+Number of confirmed Ebola cases in the last 21 days,Sierra Leone,2014-09-08,484
+Number of probable Ebola cases in the last 21 days,Sierra Leone,2014-09-08,0
+Number of suspected Ebola cases in the last 21 days,Sierra Leone,2014-09-08,49
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Sierra Leone,2014-09-08,533
+Number of confirmed Ebola cases in the last 21 days,Nigeria,2014-09-08,7
+Number of probable Ebola cases in the last 21 days,Nigeria,2014-09-08,1
+Number of suspected Ebola cases in the last 21 days,Nigeria,2014-09-08,0
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Nigeria,2014-09-08,8
+Number of confirmed Ebola cases in the last 21 days,Senegal,2014-09-08,1
+Number of probable Ebola cases in the last 21 days,Senegal,2014-09-08,0
+Number of suspected Ebola cases in the last 21 days,Senegal,2014-09-08,2
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Senegal,2014-09-08,3
+Proportion of confirmed Ebola cases that are from the last 21 days,Guinea,2014-09-08,43
+Proportion of probable Ebola cases that are from the last 21 days,Guinea,2014-09-08,12
+Proportion of suspected Ebola cases that are from the last 21 days,Guinea,2014-09-08,74
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Guinea,2014-09-08,39
+Proportion of confirmed Ebola cases that are from the last 21 days,Liberia,2014-09-08,68
+Proportion of probable Ebola cases that are from the last 21 days,Liberia,2014-09-08,54
+Proportion of suspected Ebola cases that are from the last 21 days,Liberia,2014-09-08,57
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Liberia,2014-09-08,59
+Proportion of confirmed Ebola cases that are from the last 21 days,Sierra Leone,2014-09-08,39
+Proportion of probable Ebola cases that are from the last 21 days,Sierra Leone,2014-09-08,0
+Proportion of suspected Ebola cases that are from the last 21 days,Sierra Leone,2014-09-08,54
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Sierra Leone,2014-09-08,39
+Proportion of confirmed Ebola cases that are from the last 21 days,Nigeria,2014-09-08,37
+Proportion of probable Ebola cases that are from the last 21 days,Nigeria,2014-09-08,100
+Proportion of suspected Ebola cases that are from the last 21 days,Nigeria,2014-09-08,0
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Nigeria,2014-09-08,38
+Proportion of confirmed Ebola cases that are from the last 21 days,Senegal,2014-09-08,100
+Proportion of suspected Ebola cases that are from the last 21 days,Senegal,2014-09-08,100
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Senegal,2014-09-08,100
+Cumulative number of confirmed Ebola deaths,Guinea,2014-09-08,400
+Cumulative number of probable  Ebola deaths,Guinea,2014-09-08,151
+Cumulative number of suspected Ebola deaths,Guinea,2014-09-08,4
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Guinea,2014-09-08,555
+Cumulative number of confirmed Ebola deaths,Liberia,2014-09-08,508
+Cumulative number of probable  Ebola deaths,Liberia,2014-09-08,420
+Cumulative number of suspected Ebola deaths,Liberia,2014-09-08,296
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Liberia,2014-09-08,1224
+Cumulative number of confirmed Ebola deaths,Sierra Leone,2014-09-08,461
+Cumulative number of probable  Ebola deaths,Sierra Leone,2014-09-08,37
+Cumulative number of suspected Ebola deaths,Sierra Leone,2014-09-08,11
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Sierra Leone,2014-09-08,509
+Cumulative number of confirmed Ebola deaths,Nigeria,2014-09-08,7
+Cumulative number of probable  Ebola deaths,Nigeria,2014-09-08,1
+Cumulative number of suspected Ebola deaths,Nigeria,2014-09-08,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Nigeria,2014-09-08,8
+Cumulative number of confirmed Ebola deaths,Senegal,2014-09-08,0
+Cumulative number of probable  Ebola deaths,Senegal,2014-09-08,0
+Cumulative number of suspected Ebola deaths,Senegal,2014-09-08,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Senegal,2014-09-08,0
+Number of confirmed Ebola deaths in the last 21 days,Guinea,2014-09-08,120
+Number of probable Ebola deaths in the last 21 days,Guinea,2014-09-08,35
+Number of suspected Ebola deaths in the last 21 days,Guinea,2014-09-08,0
+"Number of confirmed, probable and suspected Ebola deaths in the last 21 days",Guinea,2014-09-08,155
+Number of confirmed Ebola deaths in the last 21 days,Liberia,2014-09-08,330
+Number of probable Ebola deaths in the last 21 days,Liberia,2014-09-08,218
+Number of suspected Ebola deaths in the last 21 days,Liberia,2014-09-08,210
+"Number of confirmed, probable and suspected Ebola deaths in the last 21 days",Liberia,2014-09-08,758
+Number of confirmed Ebola deaths in the last 21 days,Sierra Leone,2014-09-08,148
+Number of probable Ebola deaths in the last 21 days,Sierra Leone,2014-09-08,0
+Number of suspected Ebola deaths in the last 21 days,Sierra Leone,2014-09-08,6
+"Number of confirmed, probable and suspected Ebola deaths in the last 21 days",Sierra Leone,2014-09-08,154
+Number of confirmed Ebola deaths in the last 21 days,Nigeria,2014-09-08,3
+Number of probable Ebola deaths in the last 21 days,Nigeria,2014-09-08,1
+Number of suspected Ebola deaths in the last 21 days,Nigeria,2014-09-08,0
+"Number of confirmed, probable and suspected Ebola deaths in the last 21 days",Nigeria,2014-09-08,4
+Number of confirmed Ebola deaths in the last 21 days,Senegal,2014-09-08,0
+Number of probable Ebola deaths in the last 21 days,Senegal,2014-09-08,0
+Number of suspected Ebola deaths in the last 21 days,Senegal,2014-09-08,0
+"Number of confirmed, probable and suspected Ebola deaths in the last 21 days",Senegal,2014-09-08,0
+Proportion of confirmed Ebola deaths that are from the last 21 days,Guinea,2014-09-08,30
+Proportion of probable Ebola deaths that are from the last 21 days,Guinea,2014-09-08,23
+Proportion of suspected Ebola deaths that are from the last 21 days,Guinea,2014-09-08,0
+"Proportion of confirmed, probable and suspected Ebola deaths that are from the last 21 days",Guinea,2014-09-08,28
+Proportion of confirmed Ebola deaths that are from the last 21 days,Liberia,2014-09-08,65
+Proportion of probable Ebola deaths that are from the last 21 days,Liberia,2014-09-08,52
+Proportion of suspected Ebola deaths that are from the last 21 days,Liberia,2014-09-08,71
+"Proportion of confirmed, probable and suspected Ebola deaths that are from the last 21 days",Liberia,2014-09-08,62
+Proportion of confirmed Ebola deaths that are from the last 21 days,Sierra Leone,2014-09-08,32
+Proportion of probable Ebola deaths that are from the last 21 days,Sierra Leone,2014-09-08,0
+Proportion of suspected Ebola deaths that are from the last 21 days,Sierra Leone,2014-09-08,55
+"Proportion of confirmed, probable and suspected Ebola deaths that are from the last 21 days",Sierra Leone,2014-09-08,30
+Proportion of confirmed Ebola deaths that are from the last 21 days,Nigeria,2014-09-08,43
+Proportion of probable Ebola deaths that are from the last 21 days,Nigeria,2014-09-08,100
+"Proportion of confirmed, probable and suspected Ebola deaths that are from the last 21 days",Nigeria,2014-09-08,50
+Cumulative number of confirmed Ebola cases,Guinea,2014-09-12,678
+Cumulative number of probable  Ebola cases,Guinea,2014-09-12,151
+Cumulative number of suspected Ebola cases,Guinea,2014-09-12,32
+"Cumulative number of confirmed, probable and suspected Ebola cases",Guinea,2014-09-12,861
+Cumulative number of confirmed Ebola cases,Liberia,2014-09-12,654
+Cumulative number of probable  Ebola cases,Liberia,2014-09-12,974
+Cumulative number of suspected Ebola cases,Liberia,2014-09-12,453
+"Cumulative number of confirmed, probable and suspected Ebola cases",Liberia,2014-09-12,2081
+Cumulative number of confirmed Ebola cases,Sierra Leone,2014-09-12,1287
+Cumulative number of probable  Ebola cases,Sierra Leone,2014-09-12,37
+Cumulative number of suspected Ebola cases,Sierra Leone,2014-09-12,100
+"Cumulative number of confirmed, probable and suspected Ebola cases",Sierra Leone,2014-09-12,1424
+Cumulative number of confirmed Ebola cases,Nigeria,2014-09-12,19
+Cumulative number of probable  Ebola cases,Nigeria,2014-09-12,1
+Cumulative number of suspected Ebola cases,Nigeria,2014-09-12,1
+"Cumulative number of confirmed, probable and suspected Ebola cases",Nigeria,2014-09-12,21
+Cumulative number of confirmed Ebola cases,Senegal,2014-09-12,1
+Cumulative number of probable  Ebola cases,Senegal,2014-09-12,0
+Cumulative number of suspected Ebola cases,Senegal,2014-09-12,2
+"Cumulative number of confirmed, probable and suspected Ebola cases",Senegal,2014-09-12,3
+Number of confirmed Ebola cases in the last 21 days,Guinea,2014-09-12,285
+Number of probable Ebola cases in the last 21 days,Guinea,2014-09-12,12
+Number of suspected Ebola cases in the last 21 days,Guinea,2014-09-12,27
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Guinea,2014-09-12,324
+Number of confirmed Ebola cases in the last 21 days,Liberia,2014-09-12,394
+Number of probable Ebola cases in the last 21 days,Liberia,2014-09-12,506
+Number of suspected Ebola cases in the last 21 days,Liberia,2014-09-12,286
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Liberia,2014-09-12,1186
+Number of confirmed Ebola cases in the last 21 days,Sierra Leone,2014-09-12,518
+Number of probable Ebola cases in the last 21 days,Sierra Leone,2014-09-12,3
+Number of suspected Ebola cases in the last 21 days,Sierra Leone,2014-09-12,65
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Sierra Leone,2014-09-12,586
+Number of confirmed Ebola cases in the last 21 days,Nigeria,2014-09-12,7
+Number of probable Ebola cases in the last 21 days,Nigeria,2014-09-12,1
+Number of suspected Ebola cases in the last 21 days,Nigeria,2014-09-12,1
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Nigeria,2014-09-12,9
+Number of confirmed Ebola cases in the last 21 days,Senegal,2014-09-12,1
+Number of probable Ebola cases in the last 21 days,Senegal,2014-09-12,0
+Number of suspected Ebola cases in the last 21 days,Senegal,2014-09-12,2
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Senegal,2014-09-12,3
+Proportion of confirmed Ebola cases that are from the last 21 days,Guinea,2014-09-12,42
+Proportion of probable Ebola cases that are from the last 21 days,Guinea,2014-09-12,8
+Proportion of suspected Ebola cases that are from the last 21 days,Guinea,2014-09-12,84
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Guinea,2014-09-12,38
+Proportion of confirmed Ebola cases that are from the last 21 days,Liberia,2014-09-12,60
+Proportion of probable Ebola cases that are from the last 21 days,Liberia,2014-09-12,52
+Proportion of suspected Ebola cases that are from the last 21 days,Liberia,2014-09-12,63
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Liberia,2014-09-12,57
+Proportion of confirmed Ebola cases that are from the last 21 days,Sierra Leone,2014-09-12,40
+Proportion of probable Ebola cases that are from the last 21 days,Sierra Leone,2014-09-12,8
+Proportion of suspected Ebola cases that are from the last 21 days,Sierra Leone,2014-09-12,65
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Sierra Leone,2014-09-12,41
+Proportion of confirmed Ebola cases that are from the last 21 days,Nigeria,2014-09-12,36.8
+Proportion of probable Ebola cases that are from the last 21 days,Nigeria,2014-09-12,100
+Proportion of suspected Ebola cases that are from the last 21 days,Nigeria,2014-09-12,100
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Nigeria,2014-09-12,42.9
+Proportion of confirmed Ebola cases that are from the last 21 days,Senegal,2014-09-12,100
+Proportion of probable Ebola cases that are from the last 21 days,Senegal,2014-09-12,0
+Proportion of suspected Ebola cases that are from the last 21 days,Senegal,2014-09-12,100
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Senegal,2014-09-12,100
+Cumulative number of confirmed Ebola deaths,Guinea,2014-09-12,403
+Cumulative number of probable  Ebola deaths,Guinea,2014-09-12,150
+Cumulative number of suspected Ebola deaths,Guinea,2014-09-12,4
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Guinea,2014-09-12,557
+Cumulative number of confirmed Ebola deaths,Liberia,2014-09-12,498
+Cumulative number of probable  Ebola deaths,Liberia,2014-09-12,428
+Cumulative number of suspected Ebola deaths,Liberia,2014-09-12,211
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Liberia,2014-09-12,1137
+Cumulative number of confirmed Ebola deaths,Sierra Leone,2014-09-12,478
+Cumulative number of probable  Ebola deaths,Sierra Leone,2014-09-12,34
+Cumulative number of suspected Ebola deaths,Sierra Leone,2014-09-12,12
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Sierra Leone,2014-09-12,524
+Cumulative number of confirmed Ebola deaths,Nigeria,2014-09-12,7
+Cumulative number of probable  Ebola deaths,Nigeria,2014-09-12,1
+Cumulative number of suspected Ebola deaths,Nigeria,2014-09-12,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Nigeria,2014-09-12,8
+Cumulative number of confirmed Ebola deaths,Senegal,2014-09-12,0
+Cumulative number of probable  Ebola deaths,Senegal,2014-09-12,0
+Cumulative number of suspected Ebola deaths,Senegal,2014-09-12,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Senegal,2014-09-12,0
+Case fatality rate (CFR) of confirmed Ebola cases,Guinea,2014-09-12,59
+Case fatality rate (CFR) of probable  Ebola cases,Guinea,2014-09-12,99
+Case fatality rate (CFR) of suspected Ebola cases,Guinea,2014-09-12,12
+"Case fatality rate (CFR) of confirmed, probable and suspected Ebola cases",Guinea,2014-09-12,65
+Case fatality rate (CFR) of confirmed Ebola cases,Liberia,2014-09-12,76
+Case fatality rate (CFR) of probable  Ebola cases,Liberia,2014-09-12,44
+Case fatality rate (CFR) of suspected Ebola cases,Liberia,2014-09-12,47
+"Case fatality rate (CFR) of confirmed, probable and suspected Ebola cases",Liberia,2014-09-12,55
+Case fatality rate (CFR) of confirmed Ebola cases,Sierra Leone,2014-09-12,37
+Case fatality rate (CFR) of probable  Ebola cases,Sierra Leone,2014-09-12,92
+Case fatality rate (CFR) of suspected Ebola cases,Sierra Leone,2014-09-12,12
+"Case fatality rate (CFR) of confirmed, probable and suspected Ebola cases",Sierra Leone,2014-09-12,37
+Case fatality rate (CFR) of confirmed Ebola cases,Nigeria,2014-09-12,37
+Case fatality rate (CFR) of probable  Ebola cases,Nigeria,2014-09-12,100
+Case fatality rate (CFR) of suspected Ebola cases,Nigeria,2014-09-12,0
+"Case fatality rate (CFR) of confirmed, probable and suspected Ebola cases",Nigeria,2014-09-12,38
+Case fatality rate (CFR) of confirmed Ebola cases,Senegal,2014-09-12,0
+Case fatality rate (CFR) of probable  Ebola cases,Senegal,2014-09-12,0
+Case fatality rate (CFR) of suspected Ebola cases,Senegal,2014-09-12,0
+"Case fatality rate (CFR) of confirmed, probable and suspected Ebola cases",Senegal,2014-09-12,0
+Cumulative number of confirmed Ebola cases,Guinea,2014-09-16,743
+Cumulative number of probable  Ebola cases,Guinea,2014-09-16,162
+Cumulative number of suspected Ebola cases,Guinea,2014-09-16,31
+"Cumulative number of confirmed, probable and suspected Ebola cases",Guinea,2014-09-16,936
+Cumulative number of confirmed Ebola cases,Liberia,2014-09-16,790
+Cumulative number of probable  Ebola cases,Liberia,2014-09-16,1078
+Cumulative number of suspected Ebola cases,Liberia,2014-09-16,539
+"Cumulative number of confirmed, probable and suspected Ebola cases",Liberia,2014-09-16,2407
+Cumulative number of confirmed Ebola cases,Sierra Leone,2014-09-16,1464
+Cumulative number of probable  Ebola cases,Sierra Leone,2014-09-16,37
+Cumulative number of suspected Ebola cases,Sierra Leone,2014-09-16,119
+"Cumulative number of confirmed, probable and suspected Ebola cases",Sierra Leone,2014-09-16,1620
+Cumulative number of confirmed Ebola cases,Nigeria,2014-09-16,19
+Cumulative number of probable  Ebola cases,Nigeria,2014-09-16,1
+Cumulative number of suspected Ebola cases,Nigeria,2014-09-16,1
+"Cumulative number of confirmed, probable and suspected Ebola cases",Nigeria,2014-09-16,21
+Cumulative number of confirmed Ebola cases,Senegal,2014-09-16,1
+Cumulative number of probable  Ebola cases,Senegal,2014-09-16,0
+Cumulative number of suspected Ebola cases,Senegal,2014-09-16,0
+"Cumulative number of confirmed, probable and suspected Ebola cases",Senegal,2014-09-16,1
+Number of confirmed Ebola cases in the last 21 days,Guinea,2014-09-16,276
+Number of probable Ebola cases in the last 21 days,Guinea,2014-09-16,21
+Number of suspected Ebola cases in the last 21 days,Guinea,2014-09-16,11
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Guinea,2014-09-16,308
+Number of confirmed Ebola cases in the last 21 days,Liberia,2014-09-16,546
+Number of probable Ebola cases in the last 21 days,Liberia,2014-09-16,539
+Number of suspected Ebola cases in the last 21 days,Liberia,2014-09-16,298
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Liberia,2014-09-16,1383
+Number of confirmed Ebola cases in the last 21 days,Sierra Leone,2014-09-16,583
+Number of probable Ebola cases in the last 21 days,Sierra Leone,2014-09-16,0
+Number of suspected Ebola cases in the last 21 days,Sierra Leone,2014-09-16,70
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Sierra Leone,2014-09-16,653
+Number of confirmed Ebola cases in the last 21 days,Nigeria,2014-09-16,6
+Number of probable Ebola cases in the last 21 days,Nigeria,2014-09-16,0
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Nigeria,2014-09-16,6
+Number of confirmed Ebola cases in the last 21 days,Senegal,2014-09-16,1
+Number of probable Ebola cases in the last 21 days,Senegal,2014-09-16,0
+Number of suspected Ebola cases in the last 21 days,Senegal,2014-09-16,0
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Senegal,2014-09-16,1
+Proportion of confirmed Ebola cases that are from the last 21 days,Guinea,2014-09-16,37
+Proportion of probable Ebola cases that are from the last 21 days,Guinea,2014-09-16,13
+Proportion of suspected Ebola cases that are from the last 21 days,Guinea,2014-09-16,35
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Guinea,2014-09-16,33
+Proportion of confirmed Ebola cases that are from the last 21 days,Liberia,2014-09-16,69
+Proportion of probable Ebola cases that are from the last 21 days,Liberia,2014-09-16,50
+Proportion of suspected Ebola cases that are from the last 21 days,Liberia,2014-09-16,55
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Liberia,2014-09-16,57
+Proportion of confirmed Ebola cases that are from the last 21 days,Sierra Leone,2014-09-16,40
+Proportion of probable Ebola cases that are from the last 21 days,Sierra Leone,2014-09-16,0
+Proportion of suspected Ebola cases that are from the last 21 days,Sierra Leone,2014-09-16,59
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Sierra Leone,2014-09-16,40
+Proportion of confirmed Ebola cases that are from the last 21 days,Nigeria,2014-09-16,32
+Proportion of probable Ebola cases that are from the last 21 days,Nigeria,2014-09-16,0
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Nigeria,2014-09-16,29
+Proportion of confirmed Ebola cases that are from the last 21 days,Senegal,2014-09-16,100
+Proportion of probable Ebola cases that are from the last 21 days,Senegal,2014-09-16,0
+Proportion of suspected Ebola cases that are from the last 21 days,Senegal,2014-09-16,0
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Senegal,2014-09-16,100
+Cumulative number of confirmed Ebola deaths,Guinea,2014-09-16,429
+Cumulative number of probable  Ebola deaths,Guinea,2014-09-16,162
+Cumulative number of suspected Ebola deaths,Guinea,2014-09-16,4
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Guinea,2014-09-16,595
+Cumulative number of confirmed Ebola deaths,Liberia,2014-09-16,563
+Cumulative number of probable  Ebola deaths,Liberia,2014-09-16,472
+Cumulative number of suspected Ebola deaths,Liberia,2014-09-16,261
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Liberia,2014-09-16,1296
+Cumulative number of confirmed Ebola deaths,Sierra Leone,2014-09-16,514
+Cumulative number of probable  Ebola deaths,Sierra Leone,2014-09-16,37
+Cumulative number of suspected Ebola deaths,Sierra Leone,2014-09-16,11
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Sierra Leone,2014-09-16,562
+Cumulative number of confirmed Ebola deaths,Nigeria,2014-09-16,7
+Cumulative number of probable  Ebola deaths,Nigeria,2014-09-16,1
+Cumulative number of suspected Ebola deaths,Nigeria,2014-09-16,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Nigeria,2014-09-16,8
+Cumulative number of confirmed Ebola deaths,Senegal,2014-09-16,0
+Cumulative number of probable  Ebola deaths,Senegal,2014-09-16,0
+Cumulative number of suspected Ebola deaths,Senegal,2014-09-16,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Senegal,2014-09-16,0
+Case fatality rate (CFR) of confirmed Ebola cases,Guinea,2014-09-16,58
+Case fatality rate (CFR) of probable  Ebola cases,Guinea,2014-09-16,100
+Case fatality rate (CFR) of suspected Ebola cases,Guinea,2014-09-16,13
+"Case fatality rate (CFR) of confirmed, probable and suspected Ebola cases",Guinea,2014-09-16,64
+Case fatality rate (CFR) of confirmed Ebola cases,Liberia,2014-09-16,71
+Case fatality rate (CFR) of probable  Ebola cases,Liberia,2014-09-16,44
+Case fatality rate (CFR) of suspected Ebola cases,Liberia,2014-09-16,48
+"Case fatality rate (CFR) of confirmed, probable and suspected Ebola cases",Liberia,2014-09-16,54
+Case fatality rate (CFR) of confirmed Ebola cases,Sierra Leone,2014-09-16,35
+Case fatality rate (CFR) of probable  Ebola cases,Sierra Leone,2014-09-16,100
+Case fatality rate (CFR) of suspected Ebola cases,Sierra Leone,2014-09-16,9
+"Case fatality rate (CFR) of confirmed, probable and suspected Ebola cases",Sierra Leone,2014-09-16,35
+Case fatality rate (CFR) of confirmed Ebola cases,Nigeria,2014-09-16,37
+Case fatality rate (CFR) of probable  Ebola cases,Nigeria,2014-09-16,100
+Case fatality rate (CFR) of suspected Ebola cases,Nigeria,2014-09-16,0
+"Case fatality rate (CFR) of confirmed, probable and suspected Ebola cases",Nigeria,2014-09-16,38
+Case fatality rate (CFR) of confirmed Ebola cases,Senegal,2014-09-16,0
+Case fatality rate (CFR) of probable  Ebola cases,Senegal,2014-09-16,0
+Case fatality rate (CFR) of suspected Ebola cases,Senegal,2014-09-16,0
+"Case fatality rate (CFR) of confirmed, probable and suspected Ebola cases",Senegal,2014-09-16,0
+Cumulative number of confirmed Ebola cases,Guinea,2014-09-18,750
+Cumulative number of probable  Ebola cases,Guinea,2014-09-18,162
+Cumulative number of suspected Ebola cases,Guinea,2014-09-18,30
+"Cumulative number of confirmed, probable and suspected Ebola cases",Guinea,2014-09-18,942
+Cumulative number of confirmed Ebola cases,Liberia,2014-09-18,812
+Cumulative number of probable  Ebola cases,Liberia,2014-09-18,1233
+Cumulative number of suspected Ebola cases,Liberia,2014-09-18,675
+"Cumulative number of confirmed, probable and suspected Ebola cases",Liberia,2014-09-18,2710
+Cumulative number of confirmed Ebola cases,Sierra Leone,2014-09-18,1513
+Cumulative number of probable  Ebola cases,Sierra Leone,2014-09-18,37
+Cumulative number of suspected Ebola cases,Sierra Leone,2014-09-18,123
+"Cumulative number of confirmed, probable and suspected Ebola cases",Sierra Leone,2014-09-18,1673
+Cumulative number of confirmed Ebola cases,Nigeria,2014-09-18,19
+Cumulative number of probable  Ebola cases,Nigeria,2014-09-18,1
+Cumulative number of suspected Ebola cases,Nigeria,2014-09-18,1
+"Cumulative number of confirmed, probable and suspected Ebola cases",Nigeria,2014-09-18,21
+Cumulative number of confirmed Ebola cases,Senegal,2014-09-18,1
+Cumulative number of probable  Ebola cases,Senegal,2014-09-18,0
+Cumulative number of suspected Ebola cases,Senegal,2014-09-18,0
+"Cumulative number of confirmed, probable and suspected Ebola cases",Senegal,2014-09-18,1
+Number of confirmed Ebola cases in the last 21 days,Guinea,2014-09-18,266
+Number of probable Ebola cases in the last 21 days,Guinea,2014-09-18,21
+Number of suspected Ebola cases in the last 21 days,Guinea,2014-09-18,25
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Guinea,2014-09-18,312
+Number of confirmed Ebola cases in the last 21 days,Liberia,2014-09-18,462
+Number of probable Ebola cases in the last 21 days,Liberia,2014-09-18,596
+Number of suspected Ebola cases in the last 21 days,Liberia,2014-09-18,398
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Liberia,2014-09-18,1429
+Number of confirmed Ebola cases in the last 21 days,Sierra Leone,2014-09-18,585
+Number of probable Ebola cases in the last 21 days,Sierra Leone,2014-09-18,0
+Number of suspected Ebola cases in the last 21 days,Sierra Leone,2014-09-18,69
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Sierra Leone,2014-09-18,653
+Number of confirmed Ebola cases in the last 21 days,Nigeria,2014-09-18,5
+Number of probable Ebola cases in the last 21 days,Nigeria,2014-09-18,0
+Number of suspected Ebola cases in the last 21 days,Nigeria,2014-09-18,1
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Nigeria,2014-09-18,6
+Number of confirmed Ebola cases in the last 21 days,Senegal,2014-09-18,1
+Number of probable Ebola cases in the last 21 days,Senegal,2014-09-18,0
+Number of suspected Ebola cases in the last 21 days,Senegal,2014-09-18,0
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Senegal,2014-09-18,1
+Proportion of confirmed Ebola cases that are from the last 21 days,Guinea,2014-09-18,36
+Proportion of probable Ebola cases that are from the last 21 days,Guinea,2014-09-18,13
+Proportion of suspected Ebola cases that are from the last 21 days,Guinea,2014-09-18,83
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Guinea,2014-09-18,33
+Proportion of confirmed Ebola cases that are from the last 21 days,Liberia,2014-09-18,57
+Proportion of probable Ebola cases that are from the last 21 days,Liberia,2014-09-18,46
+Proportion of suspected Ebola cases that are from the last 21 days,Liberia,2014-09-18,59
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Liberia,2014-09-18,52
+Proportion of confirmed Ebola cases that are from the last 21 days,Sierra Leone,2014-09-18,39
+Proportion of probable Ebola cases that are from the last 21 days,Sierra Leone,2014-09-18,0
+Proportion of suspected Ebola cases that are from the last 21 days,Sierra Leone,2014-09-18,56
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Sierra Leone,2014-09-18,39
+Proportion of confirmed Ebola cases that are from the last 21 days,Nigeria,2014-09-18,26
+Proportion of probable Ebola cases that are from the last 21 days,Nigeria,2014-09-18,0
+Proportion of suspected Ebola cases that are from the last 21 days,Nigeria,2014-09-18,100
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Nigeria,2014-09-18,29
+Proportion of confirmed Ebola cases that are from the last 21 days,Senegal,2014-09-18,100
+Proportion of probable Ebola cases that are from the last 21 days,Senegal,2014-09-18,0
+Proportion of suspected Ebola cases that are from the last 21 days,Senegal,2014-09-18,0
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Senegal,2014-09-18,100
+Cumulative number of confirmed Ebola deaths,Guinea,2014-09-18,435
+Cumulative number of probable  Ebola deaths,Guinea,2014-09-18,161
+Cumulative number of suspected Ebola deaths,Guinea,2014-09-18,5
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Guinea,2014-09-18,601
+Cumulative number of confirmed Ebola deaths,Liberia,2014-09-18,631
+Cumulative number of probable  Ebola deaths,Liberia,2014-09-18,518
+Cumulative number of suspected Ebola deaths,Liberia,2014-09-18,310
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Liberia,2014-09-18,1459
+Cumulative number of confirmed Ebola deaths,Sierra Leone,2014-09-18,517
+Cumulative number of probable  Ebola deaths,Sierra Leone,2014-09-18,34
+Cumulative number of suspected Ebola deaths,Sierra Leone,2014-09-18,11
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Sierra Leone,2014-09-18,562
+Cumulative number of confirmed Ebola deaths,Nigeria,2014-09-18,7
+Cumulative number of probable  Ebola deaths,Nigeria,2014-09-18,1
+Cumulative number of suspected Ebola deaths,Nigeria,2014-09-18,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Nigeria,2014-09-18,8
+Cumulative number of confirmed Ebola deaths,Senegal,2014-09-18,0
+Cumulative number of probable  Ebola deaths,Senegal,2014-09-18,0
+Cumulative number of suspected Ebola deaths,Senegal,2014-09-18,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Senegal,2014-09-18,0
+Cumulative number of confirmed Ebola cases,Guinea,2014-09-22,818
+Cumulative number of probable  Ebola cases,Guinea,2014-09-22,162
+Cumulative number of suspected Ebola cases,Guinea,2014-09-22,28
+"Cumulative number of confirmed, probable and suspected Ebola cases",Guinea,2014-09-22,1008
+Cumulative number of confirmed Ebola cases,Liberia,2014-09-22,863
+Cumulative number of probable  Ebola cases,Liberia,2014-09-22,1342
+Cumulative number of suspected Ebola cases,Liberia,2014-09-22,817
+"Cumulative number of confirmed, probable and suspected Ebola cases",Liberia,2014-09-22,3022
+Cumulative number of confirmed Ebola cases,Sierra Leone,2014-09-22,1640
+Cumulative number of probable  Ebola cases,Sierra Leone,2014-09-22,37
+Cumulative number of suspected Ebola cases,Sierra Leone,2014-09-22,136
+"Cumulative number of confirmed, probable and suspected Ebola cases",Sierra Leone,2014-09-22,1813
+Cumulative number of confirmed Ebola cases,Nigeria,2014-09-22,19
+Cumulative number of probable  Ebola cases,Nigeria,2014-09-22,1
+Cumulative number of suspected Ebola cases,Nigeria,2014-09-22,0
+"Cumulative number of confirmed, probable and suspected Ebola cases",Nigeria,2014-09-22,20
+Cumulative number of confirmed Ebola cases,Senegal,2014-09-22,1
+Cumulative number of probable  Ebola cases,Senegal,2014-09-22,0
+Cumulative number of suspected Ebola cases,Senegal,2014-09-22,0
+"Cumulative number of confirmed, probable and suspected Ebola cases",Senegal,2014-09-22,1
+Cumulative number of confirmed Ebola deaths,Guinea,2014-09-22,465
+Cumulative number of probable  Ebola deaths,Guinea,2014-09-22,162
+Cumulative number of suspected Ebola deaths,Guinea,2014-09-22,5
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Guinea,2014-09-22,632
+Cumulative number of confirmed Ebola deaths,Liberia,2014-09-22,670
+Cumulative number of probable  Ebola deaths,Liberia,2014-09-22,544
+Cumulative number of suspected Ebola deaths,Liberia,2014-09-22,364
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Liberia,2014-09-22,1578
+Cumulative number of confirmed Ebola deaths,Sierra Leone,2014-09-22,545
+Cumulative number of probable  Ebola deaths,Sierra Leone,2014-09-22,37
+Cumulative number of suspected Ebola deaths,Sierra Leone,2014-09-22,11
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Sierra Leone,2014-09-22,593
+Cumulative number of confirmed Ebola deaths,Nigeria,2014-09-22,7
+Cumulative number of probable  Ebola deaths,Nigeria,2014-09-22,1
+Cumulative number of suspected Ebola deaths,Nigeria,2014-09-22,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Nigeria,2014-09-22,8
+Cumulative number of confirmed Ebola deaths,Senegal,2014-09-22,0
+Cumulative number of probable  Ebola deaths,Senegal,2014-09-22,0
+Cumulative number of suspected Ebola deaths,Senegal,2014-09-22,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Senegal,2014-09-22,0
+Cumulative number of confirmed Ebola cases,Guinea,2014-09-24,832
+Cumulative number of probable  Ebola cases,Guinea,2014-09-24,162
+Cumulative number of suspected Ebola cases,Guinea,2014-09-24,28
+"Cumulative number of confirmed, probable and suspected Ebola cases",Guinea,2014-09-24,1022
+Cumulative number of confirmed Ebola cases,Liberia,2014-09-24,890
+Cumulative number of probable  Ebola cases,Liberia,2014-09-24,1469
+Cumulative number of suspected Ebola cases,Liberia,2014-09-24,921
+"Cumulative number of confirmed, probable and suspected Ebola cases",Liberia,2014-09-24,3280
+Cumulative number of confirmed Ebola cases,Sierra Leone,2014-09-24,1745
+Cumulative number of probable  Ebola cases,Sierra Leone,2014-09-24,37
+Cumulative number of suspected Ebola cases,Sierra Leone,2014-09-24,158
+"Cumulative number of confirmed, probable and suspected Ebola cases",Sierra Leone,2014-09-24,1940
+Cumulative number of confirmed Ebola cases,Nigeria,2014-09-24,19
+Cumulative number of probable  Ebola cases,Nigeria,2014-09-24,1
+Cumulative number of suspected Ebola cases,Nigeria,2014-09-24,0
+"Cumulative number of confirmed, probable and suspected Ebola cases",Nigeria,2014-09-24,20
+Cumulative number of confirmed Ebola cases,Senegal,2014-09-24,1
+Cumulative number of probable  Ebola cases,Senegal,2014-09-24,0
+Cumulative number of suspected Ebola cases,Senegal,2014-09-24,0
+"Cumulative number of confirmed, probable and suspected Ebola cases",Senegal,2014-09-24,1
+Number of confirmed Ebola cases in the last 21 days,Guinea,2014-09-24,256
+Number of probable Ebola cases in the last 21 days,Guinea,2014-09-24,14
+Number of suspected Ebola cases in the last 21 days,Guinea,2014-09-24,22
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Guinea,2014-09-24,292
+Number of confirmed Ebola cases in the last 21 days,Liberia,2014-09-24,469
+Number of probable Ebola cases in the last 21 days,Liberia,2014-09-24,648
+Number of suspected Ebola cases in the last 21 days,Liberia,2014-09-24,590
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Liberia,2014-09-24,1707
+Number of confirmed Ebola cases in the last 21 days,Sierra Leone,2014-09-24,644
+Number of probable Ebola cases in the last 21 days,Sierra Leone,2014-09-24,0
+Number of suspected Ebola cases in the last 21 days,Sierra Leone,2014-09-24,93
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Sierra Leone,2014-09-24,737
+Proportion of confirmed Ebola cases that are from the last 21 days,Guinea,2014-09-24,31
+Proportion of probable Ebola cases that are from the last 21 days,Guinea,2014-09-24,9
+Proportion of suspected Ebola cases that are from the last 21 days,Guinea,2014-09-24,79
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Guinea,2014-09-24,29
+Proportion of confirmed Ebola cases that are from the last 21 days,Liberia,2014-09-24,53
+Proportion of probable Ebola cases that are from the last 21 days,Liberia,2014-09-24,44
+Proportion of suspected Ebola cases that are from the last 21 days,Liberia,2014-09-24,64
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Liberia,2014-09-24,52
+Proportion of confirmed Ebola cases that are from the last 21 days,Sierra Leone,2014-09-24,37
+Proportion of probable Ebola cases that are from the last 21 days,Sierra Leone,2014-09-24,0
+Proportion of suspected Ebola cases that are from the last 21 days,Sierra Leone,2014-09-24,59
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Sierra Leone,2014-09-24,38
+Cumulative number of confirmed Ebola deaths,Guinea,2014-09-24,468
+Cumulative number of probable  Ebola deaths,Guinea,2014-09-24,162
+Cumulative number of suspected Ebola deaths,Guinea,2014-09-24,5
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Guinea,2014-09-24,635
+Cumulative number of confirmed Ebola deaths,Liberia,2014-09-24,671
+Cumulative number of probable  Ebola deaths,Liberia,2014-09-24,593
+Cumulative number of suspected Ebola deaths,Liberia,2014-09-24,413
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Liberia,2014-09-24,1677
+Cumulative number of confirmed Ebola deaths,Sierra Leone,2014-09-24,552
+Cumulative number of probable  Ebola deaths,Sierra Leone,2014-09-24,34
+Cumulative number of suspected Ebola deaths,Sierra Leone,2014-09-24,11
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Sierra Leone,2014-09-24,597
+Cumulative number of confirmed Ebola deaths,Nigeria,2014-09-24,7
+Cumulative number of probable  Ebola deaths,Nigeria,2014-09-24,1
+Cumulative number of suspected Ebola deaths,Nigeria,2014-09-24,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Nigeria,2014-09-24,8
+Cumulative number of confirmed Ebola deaths,Senegal,2014-09-24,0
+Cumulative number of probable  Ebola deaths,Senegal,2014-09-24,0
+Cumulative number of suspected Ebola deaths,Senegal,2014-09-24,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Senegal,2014-09-24,0
+Cumulative number of confirmed Ebola cases,Guinea,2014-09-26,876
+Cumulative number of probable  Ebola cases,Guinea,2014-09-26,162
+Cumulative number of suspected Ebola cases,Guinea,2014-09-26,36
+"Cumulative number of confirmed, probable and suspected Ebola cases",Guinea,2014-09-26,1074
+Cumulative number of confirmed Ebola cases,Liberia,2014-09-26,914
+Cumulative number of probable  Ebola cases,Liberia,2014-09-26,1539
+Cumulative number of suspected Ebola cases,Liberia,2014-09-26,1005
+"Cumulative number of confirmed, probable and suspected Ebola cases",Liberia,2014-09-26,3458
+Cumulative number of confirmed Ebola cases,Sierra Leone,2014-09-26,1816
+Cumulative number of probable  Ebola cases,Sierra Leone,2014-09-26,37
+Cumulative number of suspected Ebola cases,Sierra Leone,2014-09-26,168
+"Cumulative number of confirmed, probable and suspected Ebola cases",Sierra Leone,2014-09-26,2021
+Cumulative number of confirmed Ebola cases,Nigeria,2014-09-26,19
+Cumulative number of probable  Ebola cases,Nigeria,2014-09-26,1
+Cumulative number of suspected Ebola cases,Nigeria,2014-09-26,0
+"Cumulative number of confirmed, probable and suspected Ebola cases",Nigeria,2014-09-26,20
+Cumulative number of confirmed Ebola cases,Senegal,2014-09-26,1
+Cumulative number of probable  Ebola cases,Senegal,2014-09-26,0
+Cumulative number of suspected Ebola cases,Senegal,2014-09-26,0
+"Cumulative number of confirmed, probable and suspected Ebola cases",Senegal,2014-09-26,1
+Cumulative number of confirmed Ebola deaths,Guinea,2014-09-26,481
+Cumulative number of probable  Ebola deaths,Guinea,2014-09-26,162
+Cumulative number of suspected Ebola deaths,Guinea,2014-09-26,5
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Guinea,2014-09-26,648
+Cumulative number of confirmed Ebola deaths,Liberia,2014-09-26,792
+Cumulative number of probable  Ebola deaths,Liberia,2014-09-26,623
+Cumulative number of suspected Ebola deaths,Liberia,2014-09-26,415
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Liberia,2014-09-26,1830
+Cumulative number of confirmed Ebola deaths,Sierra Leone,2014-09-26,557
+Cumulative number of probable  Ebola deaths,Sierra Leone,2014-09-26,37
+Cumulative number of suspected Ebola deaths,Sierra Leone,2014-09-26,11
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Sierra Leone,2014-09-26,605
+Cumulative number of confirmed Ebola deaths,Nigeria,2014-09-26,7
+Cumulative number of probable  Ebola deaths,Nigeria,2014-09-26,1
+Cumulative number of suspected Ebola deaths,Nigeria,2014-09-26,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Nigeria,2014-09-26,8
+Cumulative number of confirmed Ebola deaths,Senegal,2014-09-26,0
+Cumulative number of probable  Ebola deaths,Senegal,2014-09-26,0
+Cumulative number of suspected Ebola deaths,Senegal,2014-09-26,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Senegal,2014-09-26,0
+Cumulative number of confirmed Ebola cases,Guinea,2014-10-01,950
+Cumulative number of probable  Ebola cases,Guinea,2014-10-01,170
+Cumulative number of suspected Ebola cases,Guinea,2014-10-01,37
+"Cumulative number of confirmed, probable and suspected Ebola cases",Guinea,2014-10-01,1157
+Cumulative number of confirmed Ebola cases,Liberia,2014-10-01,927
+Cumulative number of probable  Ebola cases,Liberia,2014-10-01,1656
+Cumulative number of suspected Ebola cases,Liberia,2014-10-01,1113
+"Cumulative number of confirmed, probable and suspected Ebola cases",Liberia,2014-10-01,3696
+Cumulative number of confirmed Ebola cases,Sierra Leone,2014-10-01,2076
+Cumulative number of probable  Ebola cases,Sierra Leone,2014-10-01,37
+Cumulative number of suspected Ebola cases,Sierra Leone,2014-10-01,191
+"Cumulative number of confirmed, probable and suspected Ebola cases",Sierra Leone,2014-10-01,2304
+Cumulative number of confirmed Ebola cases,Nigeria,2014-10-01,19
+Cumulative number of probable  Ebola cases,Nigeria,2014-10-01,1
+Cumulative number of suspected Ebola cases,Nigeria,2014-10-01,0
+"Cumulative number of confirmed, probable and suspected Ebola cases",Nigeria,2014-10-01,20
+Cumulative number of confirmed Ebola cases,Senegal,2014-10-01,1
+Cumulative number of probable  Ebola cases,Senegal,2014-10-01,0
+Cumulative number of suspected Ebola cases,Senegal,2014-10-01,0
+"Cumulative number of confirmed, probable and suspected Ebola cases",Senegal,2014-10-01,1
+Number of confirmed Ebola cases in the last 21 days,Guinea,2014-10-01,230
+Number of probable Ebola cases in the last 21 days,Guinea,2014-10-01,14
+Number of suspected Ebola cases in the last 21 days,Guinea,2014-10-01,23
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Guinea,2014-10-01,270
+Number of confirmed Ebola cases in the last 21 days,Liberia,2014-10-01,280
+Number of probable Ebola cases in the last 21 days,Liberia,2014-10-01,687
+Number of suspected Ebola cases in the last 21 days,Liberia,2014-10-01,672
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Liberia,2014-10-01,1639
+Number of confirmed Ebola cases in the last 21 days,Sierra Leone,2014-10-01,788
+Number of probable Ebola cases in the last 21 days,Sierra Leone,2014-10-01,0
+Number of suspected Ebola cases in the last 21 days,Sierra Leone,2014-10-01,106
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Sierra Leone,2014-10-01,894
+Proportion of confirmed Ebola cases that are from the last 21 days,Guinea,2014-10-01,24
+Proportion of probable Ebola cases that are from the last 21 days,Guinea,2014-10-01,8
+Proportion of suspected Ebola cases that are from the last 21 days,Guinea,2014-10-01,62
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Guinea,2014-10-01,23
+Proportion of confirmed Ebola cases that are from the last 21 days,Liberia,2014-10-01,30
+Proportion of probable Ebola cases that are from the last 21 days,Liberia,2014-10-01,42
+Proportion of suspected Ebola cases that are from the last 21 days,Liberia,2014-10-01,60
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Liberia,2014-10-01,44
+Proportion of confirmed Ebola cases that are from the last 21 days,Sierra Leone,2014-10-01,38
+Proportion of probable Ebola cases that are from the last 21 days,Sierra Leone,2014-10-01,0
+Proportion of suspected Ebola cases that are from the last 21 days,Sierra Leone,2014-10-01,56
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Sierra Leone,2014-10-01,39
+Cumulative number of confirmed Ebola deaths,Guinea,2014-10-01,535
+Cumulative number of probable  Ebola deaths,Guinea,2014-10-01,170
+Cumulative number of suspected Ebola deaths,Guinea,2014-10-01,5
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Guinea,2014-10-01,710
+Cumulative number of confirmed Ebola deaths,Liberia,2014-10-01,890
+Cumulative number of probable  Ebola deaths,Liberia,2014-10-01,664
+Cumulative number of suspected Ebola deaths,Liberia,2014-10-01,444
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Liberia,2014-10-01,1998
+Cumulative number of confirmed Ebola deaths,Sierra Leone,2014-10-01,574
+Cumulative number of probable  Ebola deaths,Sierra Leone,2014-10-01,37
+Cumulative number of suspected Ebola deaths,Sierra Leone,2014-10-01,11
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Sierra Leone,2014-10-01,622
+Cumulative number of confirmed Ebola deaths,Nigeria,2014-10-01,7
+Cumulative number of probable  Ebola deaths,Nigeria,2014-10-01,1
+Cumulative number of suspected Ebola deaths,Nigeria,2014-10-01,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Nigeria,2014-10-01,8
+Cumulative number of confirmed Ebola deaths,Senegal,2014-10-01,0
+Cumulative number of probable  Ebola deaths,Senegal,2014-10-01,0
+Cumulative number of suspected Ebola deaths,Senegal,2014-10-01,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Senegal,2014-10-01,0
+Cumulative number of confirmed Ebola cases,Guinea,2014-10-03,977
+Cumulative number of probable  Ebola cases,Guinea,2014-10-03,177
+Cumulative number of suspected Ebola cases,Guinea,2014-10-03,45
+"Cumulative number of confirmed, probable and suspected Ebola cases",Guinea,2014-10-03,1199
+Cumulative number of confirmed Ebola cases,Liberia,2014-10-03,931
+Cumulative number of probable  Ebola cases,Liberia,2014-10-03,1713
+Cumulative number of suspected Ebola cases,Liberia,2014-10-03,1190
+"Cumulative number of confirmed, probable and suspected Ebola cases",Liberia,2014-10-03,3834
+Cumulative number of confirmed Ebola cases,Sierra Leone,2014-10-03,2179
+Cumulative number of probable  Ebola cases,Sierra Leone,2014-10-03,37
+Cumulative number of suspected Ebola cases,Sierra Leone,2014-10-03,221
+"Cumulative number of confirmed, probable and suspected Ebola cases",Sierra Leone,2014-10-03,2437
+Cumulative number of confirmed Ebola cases,Nigeria,2014-10-03,19
+Cumulative number of probable  Ebola cases,Nigeria,2014-10-03,1
+Cumulative number of suspected Ebola cases,Nigeria,2014-10-03,0
+"Cumulative number of confirmed, probable and suspected Ebola cases",Nigeria,2014-10-03,20
+Cumulative number of confirmed Ebola cases,Senegal,2014-10-03,1
+Cumulative number of probable  Ebola cases,Senegal,2014-10-03,0
+Cumulative number of suspected Ebola cases,Senegal,2014-10-03,0
+"Cumulative number of confirmed, probable and suspected Ebola cases",Senegal,2014-10-03,1
+Cumulative number of confirmed Ebola cases,United States of America,2014-10-03,1
+"Cumulative number of confirmed, probable and suspected Ebola cases",United States of America,2014-10-03,1
+Cumulative number of confirmed Ebola deaths,Guinea,2014-10-03,562
+Cumulative number of probable  Ebola deaths,Guinea,2014-10-03,177
+Cumulative number of suspected Ebola deaths,Guinea,2014-10-03,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Guinea,2014-10-03,739
+Cumulative number of confirmed Ebola deaths,Liberia,2014-10-03,934
+Cumulative number of probable  Ebola deaths,Liberia,2014-10-03,677
+Cumulative number of suspected Ebola deaths,Liberia,2014-10-03,458
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Liberia,2014-10-03,2069
+Cumulative number of confirmed Ebola deaths,Sierra Leone,2014-10-03,575
+Cumulative number of probable  Ebola deaths,Sierra Leone,2014-10-03,37
+Cumulative number of suspected Ebola deaths,Sierra Leone,2014-10-03,11
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Sierra Leone,2014-10-03,623
+Cumulative number of confirmed Ebola deaths,Nigeria,2014-10-03,7
+Cumulative number of probable  Ebola deaths,Nigeria,2014-10-03,1
+Cumulative number of suspected Ebola deaths,Nigeria,2014-10-03,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Nigeria,2014-10-03,8
+Cumulative number of confirmed Ebola deaths,Senegal,2014-10-03,0
+Cumulative number of probable  Ebola deaths,Senegal,2014-10-03,0
+Cumulative number of suspected Ebola deaths,Senegal,2014-10-03,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Senegal,2014-10-03,0
+Cumulative number of confirmed Ebola deaths,United States of America,2014-10-03,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",United States of America,2014-10-03,0
+Cumulative number of confirmed Ebola cases,Guinea,2014-10-08,1044
+Cumulative number of probable  Ebola cases,Guinea,2014-10-08,180
+Cumulative number of suspected Ebola cases,Guinea,2014-10-08,74
+"Cumulative number of confirmed, probable and suspected Ebola cases",Guinea,2014-10-08,1298
+Cumulative number of confirmed Ebola cases,Liberia,2014-10-08,941
+Cumulative number of probable  Ebola cases,Liberia,2014-10-08,1795
+Cumulative number of suspected Ebola cases,Liberia,2014-10-08,1188
+"Cumulative number of confirmed, probable and suspected Ebola cases",Liberia,2014-10-08,3924
+Cumulative number of confirmed Ebola cases,Sierra Leone,2014-10-08,2455
+Cumulative number of probable  Ebola cases,Sierra Leone,2014-10-08,37
+Cumulative number of suspected Ebola cases,Sierra Leone,2014-10-08,297
+"Cumulative number of confirmed, probable and suspected Ebola cases",Sierra Leone,2014-10-08,2789
+Cumulative number of confirmed Ebola cases,Nigeria,2014-10-08,19
+Cumulative number of probable  Ebola cases,Nigeria,2014-10-08,1
+Cumulative number of suspected Ebola cases,Nigeria,2014-10-08,0
+"Cumulative number of confirmed, probable and suspected Ebola cases",Nigeria,2014-10-08,20
+Cumulative number of confirmed Ebola cases,Senegal,2014-10-08,1
+Cumulative number of probable  Ebola cases,Senegal,2014-10-08,0
+Cumulative number of suspected Ebola cases,Senegal,2014-10-08,0
+"Cumulative number of confirmed, probable and suspected Ebola cases",Senegal,2014-10-08,1
+Cumulative number of confirmed Ebola cases,United States of America,2014-10-08,1
+"Cumulative number of confirmed, probable and suspected Ebola cases",United States of America,2014-10-08,1
+Number of confirmed Ebola cases in the last 21 days,Guinea,2014-10-08,253
+Number of probable Ebola cases in the last 21 days,Guinea,2014-10-08,13
+Number of suspected Ebola cases in the last 21 days,Guinea,2014-10-08,65
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Guinea,2014-10-08,331
+Number of confirmed Ebola cases in the last 21 days,Liberia,2014-10-08,136
+Number of probable Ebola cases in the last 21 days,Liberia,2014-10-08,567
+Number of suspected Ebola cases in the last 21 days,Liberia,2014-10-08,651
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Liberia,2014-10-08,1354
+Number of confirmed Ebola cases in the last 21 days,Sierra Leone,2014-10-08,924
+Number of probable Ebola cases in the last 21 days,Sierra Leone,2014-10-08,0
+Number of suspected Ebola cases in the last 21 days,Sierra Leone,2014-10-08,190
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Sierra Leone,2014-10-08,1114
+Proportion of confirmed Ebola cases that are from the last 21 days,Guinea,2014-10-08,24
+Proportion of probable Ebola cases that are from the last 21 days,Guinea,2014-10-08,7
+Proportion of suspected Ebola cases that are from the last 21 days,Guinea,2014-10-08,88
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Guinea,2014-10-08,26
+Proportion of confirmed Ebola cases that are from the last 21 days,Liberia,2014-10-08,14
+Proportion of probable Ebola cases that are from the last 21 days,Liberia,2014-10-08,32
+Proportion of suspected Ebola cases that are from the last 21 days,Liberia,2014-10-08,55
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Liberia,2014-10-08,34
+Proportion of confirmed Ebola cases that are from the last 21 days,Sierra Leone,2014-10-08,38
+Proportion of probable Ebola cases that are from the last 21 days,Sierra Leone,2014-10-08,0
+Proportion of suspected Ebola cases that are from the last 21 days,Sierra Leone,2014-10-08,64
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Sierra Leone,2014-10-08,40
+Cumulative number of confirmed Ebola deaths,Guinea,2014-10-08,587
+Cumulative number of probable  Ebola deaths,Guinea,2014-10-08,179
+Cumulative number of suspected Ebola deaths,Guinea,2014-10-08,2
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Guinea,2014-10-08,768
+Cumulative number of confirmed Ebola deaths,Liberia,2014-10-08,1018
+Cumulative number of probable  Ebola deaths,Liberia,2014-10-08,701
+Cumulative number of suspected Ebola deaths,Liberia,2014-10-08,491
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Liberia,2014-10-08,2210
+Cumulative number of confirmed Ebola deaths,Sierra Leone,2014-10-08,725
+Cumulative number of probable  Ebola deaths,Sierra Leone,2014-10-08,123
+Cumulative number of suspected Ebola deaths,Sierra Leone,2014-10-08,31
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Sierra Leone,2014-10-08,879
+Cumulative number of confirmed Ebola deaths,Nigeria,2014-10-08,7
+Cumulative number of probable  Ebola deaths,Nigeria,2014-10-08,1
+Cumulative number of suspected Ebola deaths,Nigeria,2014-10-08,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Nigeria,2014-10-08,8
+Cumulative number of confirmed Ebola deaths,Senegal,2014-10-08,0
+Cumulative number of probable  Ebola deaths,Senegal,2014-10-08,0
+Cumulative number of suspected Ebola deaths,Senegal,2014-10-08,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Senegal,2014-10-08,0
+Cumulative number of confirmed Ebola deaths,United States of America,2014-10-08,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",United States of America,2014-10-08,0
+Cumulative number of confirmed Ebola cases,Guinea,2014-10-10,1097
+Cumulative number of probable  Ebola cases,Guinea,2014-10-10,180
+Cumulative number of suspected Ebola cases,Guinea,2014-10-10,73
+"Cumulative number of confirmed, probable and suspected Ebola cases",Guinea,2014-10-10,1350
+Cumulative number of confirmed Ebola cases,Liberia,2014-10-10,943
+Cumulative number of probable  Ebola cases,Liberia,2014-10-10,1874
+Cumulative number of suspected Ebola cases,Liberia,2014-10-10,1259
+"Cumulative number of confirmed, probable and suspected Ebola cases",Liberia,2014-10-10,4076
+Cumulative number of confirmed Ebola cases,Sierra Leone,2014-10-10,2593
+Cumulative number of probable  Ebola cases,Sierra Leone,2014-10-10,37
+Cumulative number of suspected Ebola cases,Sierra Leone,2014-10-10,320
+"Cumulative number of confirmed, probable and suspected Ebola cases",Sierra Leone,2014-10-10,2950
+Cumulative number of confirmed Ebola cases,Nigeria,2014-10-10,19
+Cumulative number of probable  Ebola cases,Nigeria,2014-10-10,1
+Cumulative number of suspected Ebola cases,Nigeria,2014-10-10,0
+"Cumulative number of confirmed, probable and suspected Ebola cases",Nigeria,2014-10-10,20
+Cumulative number of confirmed Ebola cases,Senegal,2014-10-10,1
+Cumulative number of probable  Ebola cases,Senegal,2014-10-10,0
+Cumulative number of suspected Ebola cases,Senegal,2014-10-10,0
+"Cumulative number of confirmed, probable and suspected Ebola cases",Senegal,2014-10-10,1
+Cumulative number of confirmed Ebola cases,Spain,2014-10-10,1
+"Cumulative number of confirmed, probable and suspected Ebola cases",Spain,2014-10-10,1
+Cumulative number of confirmed Ebola cases,United States of America,2014-10-10,1
+"Cumulative number of confirmed, probable and suspected Ebola cases",United States of America,2014-10-10,1
+Cumulative number of confirmed Ebola deaths,Guinea,2014-10-10,598
+Cumulative number of probable  Ebola deaths,Guinea,2014-10-10,180
+Cumulative number of suspected Ebola deaths,Guinea,2014-10-10,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Guinea,2014-10-10,778
+Cumulative number of confirmed Ebola deaths,Liberia,2014-10-10,1072
+Cumulative number of probable  Ebola deaths,Liberia,2014-10-10,725
+Cumulative number of suspected Ebola deaths,Liberia,2014-10-10,519
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Liberia,2014-10-10,2316
+Cumulative number of confirmed Ebola deaths,Sierra Leone,2014-10-10,753
+Cumulative number of probable  Ebola deaths,Sierra Leone,2014-10-10,142
+Cumulative number of suspected Ebola deaths,Sierra Leone,2014-10-10,35
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Sierra Leone,2014-10-10,930
+Cumulative number of confirmed Ebola deaths,Nigeria,2014-10-10,7
+Cumulative number of probable  Ebola deaths,Nigeria,2014-10-10,1
+Cumulative number of suspected Ebola deaths,Nigeria,2014-10-10,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Nigeria,2014-10-10,8
+Cumulative number of confirmed Ebola deaths,Senegal,2014-10-10,0
+Cumulative number of probable  Ebola deaths,Senegal,2014-10-10,0
+Cumulative number of suspected Ebola deaths,Senegal,2014-10-10,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Senegal,2014-10-10,0
+Cumulative number of confirmed Ebola deaths,Spain,2014-10-10,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Spain,2014-10-10,0
+Cumulative number of confirmed Ebola deaths,United States of America,2014-10-10,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",United States of America,2014-10-10,0
+Cumulative number of confirmed Ebola cases,Guinea,2014-10-15,1184
+Cumulative number of probable  Ebola cases,Guinea,2014-10-15,190
+Cumulative number of suspected Ebola cases,Guinea,2014-10-15,98
+"Cumulative number of confirmed, probable and suspected Ebola cases",Guinea,2014-10-15,1472
+Cumulative number of confirmed Ebola cases,Liberia,2014-10-15,950
+Cumulative number of probable  Ebola cases,Liberia,2014-10-15,1923
+Cumulative number of suspected Ebola cases,Liberia,2014-10-15,1376
+"Cumulative number of confirmed, probable and suspected Ebola cases",Liberia,2014-10-15,4249
+Cumulative number of confirmed Ebola cases,Sierra Leone,2014-10-15,2849
+Cumulative number of probable  Ebola cases,Sierra Leone,2014-10-15,37
+Cumulative number of suspected Ebola cases,Sierra Leone,2014-10-15,366
+"Cumulative number of confirmed, probable and suspected Ebola cases",Sierra Leone,2014-10-15,3252
+Cumulative number of confirmed Ebola cases,Nigeria,2014-10-15,19
+Cumulative number of probable  Ebola cases,Nigeria,2014-10-15,1
+Cumulative number of suspected Ebola cases,Nigeria,2014-10-15,0
+"Cumulative number of confirmed, probable and suspected Ebola cases",Nigeria,2014-10-15,20
+Cumulative number of confirmed Ebola cases,Senegal,2014-10-15,1
+Cumulative number of probable  Ebola cases,Senegal,2014-10-15,0
+Cumulative number of suspected Ebola cases,Senegal,2014-10-15,0
+"Cumulative number of confirmed, probable and suspected Ebola cases",Senegal,2014-10-15,1
+Cumulative number of confirmed Ebola cases,Spain,2014-10-15,1
+"Cumulative number of confirmed, probable and suspected Ebola cases",Spain,2014-10-15,1
+Cumulative number of confirmed Ebola cases,United States of America,2014-10-15,2
+"Cumulative number of confirmed, probable and suspected Ebola cases",United States of America,2014-10-15,2
+Number of confirmed Ebola cases in the last 21 days,Guinea,2014-10-15,289
+Number of probable Ebola cases in the last 21 days,Guinea,2014-10-15,19
+Number of suspected Ebola cases in the last 21 days,Guinea,2014-10-15,89
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Guinea,2014-10-15,397
+Number of confirmed Ebola cases in the last 21 days,Liberia,2014-10-15,66
+Number of probable Ebola cases in the last 21 days,Liberia,2014-10-15,468
+Number of suspected Ebola cases in the last 21 days,Liberia,2014-10-15,555
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Liberia,2014-10-15,1089
+Number of confirmed Ebola cases in the last 21 days,Sierra Leone,2014-10-15,1110
+Number of probable Ebola cases in the last 21 days,Sierra Leone,2014-10-15,0
+Number of suspected Ebola cases in the last 21 days,Sierra Leone,2014-10-15,220
+"Number of confirmed, probable and suspected Ebola cases in the last 21 days",Sierra Leone,2014-10-15,1330
+Proportion of confirmed Ebola cases that are from the last 21 days,Guinea,2014-10-15,24
+Proportion of probable Ebola cases that are from the last 21 days,Guinea,2014-10-15,10
+Proportion of suspected Ebola cases that are from the last 21 days,Guinea,2014-10-15,91
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Guinea,2014-10-15,27
+Proportion of confirmed Ebola cases that are from the last 21 days,Liberia,2014-10-15,7
+Proportion of probable Ebola cases that are from the last 21 days,Liberia,2014-10-15,24
+Proportion of suspected Ebola cases that are from the last 21 days,Liberia,2014-10-15,40
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Liberia,2014-10-15,26
+Proportion of confirmed Ebola cases that are from the last 21 days,Sierra Leone,2014-10-15,39
+Proportion of probable Ebola cases that are from the last 21 days,Sierra Leone,2014-10-15,0
+Proportion of suspected Ebola cases that are from the last 21 days,Sierra Leone,2014-10-15,60
+"Proportion of confirmed, probable and suspected Ebola cases that are from the last 21 days",Sierra Leone,2014-10-15,41
+Cumulative number of confirmed Ebola deaths,Guinea,2014-10-15,653
+Cumulative number of probable  Ebola deaths,Guinea,2014-10-15,190
+Cumulative number of suspected Ebola deaths,Guinea,2014-10-15,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Guinea,2014-10-15,843
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Liberia,2014-10-15,2458
+Cumulative number of confirmed Ebola deaths,Sierra Leone,2014-10-15,926
+Cumulative number of probable  Ebola deaths,Sierra Leone,2014-10-15,157
+Cumulative number of suspected Ebola deaths,Sierra Leone,2014-10-15,100
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Sierra Leone,2014-10-15,1183
+Cumulative number of confirmed Ebola deaths,Nigeria,2014-10-15,7
+Cumulative number of probable  Ebola deaths,Nigeria,2014-10-15,1
+Cumulative number of suspected Ebola deaths,Nigeria,2014-10-15,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Nigeria,2014-10-15,8
+Cumulative number of confirmed Ebola deaths,Senegal,2014-10-15,0
+Cumulative number of probable  Ebola deaths,Senegal,2014-10-15,0
+Cumulative number of suspected Ebola deaths,Senegal,2014-10-15,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Senegal,2014-10-15,0
+Cumulative number of confirmed Ebola deaths,Spain,2014-10-15,0
+"Cumulative number of confirmed, probable and suspected Ebola deaths",Spain,2014-10-15,0
+Cumulative number of confirmed Ebola deaths,United States of America,2014-10-15,1
+"Cumulative number of confirmed, probable and suspected Ebola deaths",United States of America,2014-10-15,1
