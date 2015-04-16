@@ -8,7 +8,7 @@ Sara-Jayne Terp
 import csv
 
 
-csvfilename = '../data/ebola-data-db-format.csv';
+csvfilename = '../../Data_examples/ebola-data-db-format.csv';
 fin = open(csvfilename, "rb");
 csvin = csv.reader(fin);
 

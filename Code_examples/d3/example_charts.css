@@ -1,0 +1,80 @@
+.axis path,
+.axis line {
+  fill: none;
+  stroke: black;
+  stroke-width: 2px;
+  shape-rendering: crispEdges;
+}
+
+.lineaxis text {
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+.line {
+fill: none;
+stroke-width: 5px;
+}
+
+.line:hover {
+  stroke: brown;
+}
+
+.horizontalGrid {
+  fill: none;
+  shape-rendering: crispEdges;
+  stroke: black;
+  stroke-width: 1px;
+}
+.baraxis text {
+  font-family: sans-serif;
+  font-size: 11px;
+}
+
+.bar {
+ fill: steelblue;
+ stroke: white;
+}
+.bartext {
+font-family: sans-serif;
+font-size: 11px;
+fill: white;
+}
+.bar:hover {
+  fill: brown;
+}
+
+.q0-9 { fill:rgb(247,251,255); }
+.q1-9 { fill:rgb(222,235,247); }
+.q2-9 { fill:rgb(198,219,239); }
+.q3-9 { fill:rgb(158,202,225); }
+.q4-9 { fill:rgb(107,174,214); }
+.q5-9 { fill:rgb(66,146,198); }
+.q6-9 { fill:rgb(33,113,181); }
+.q7-9 { fill:rgb(8,81,156); }
+.q8-9 { fill:rgb(8,48,107); }
+
+.region:hover {
+    stroke: rgba(0, 0, 0, 0.8);
+    stroke-width: 2px;
+  }
+
+td, th {
+  padding: 1px 4px;
+  border: 1px black solid;
+}
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  border-radius: 2px;
+  pointer-events: none;
+}
+.d3-tip .highlight {
+  color: #fc4b52;
+}
+.legend {
+  font-size: 12px;
+}

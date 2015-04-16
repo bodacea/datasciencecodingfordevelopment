@@ -1,0 +1,21 @@
+"Variable name","Example value","Unique values"
+"y2_hhid","0101014002017101","['0101014002017101' '0101014002028401' '0101014002029701' ...,
+ '5502018021005902' '5502018021005905' '5502018021006801']"
+"sourceid","NGO","['GOVERNMENT EXTENSION' 'NGO' ""COOPERATIVE/FARMER'S ASSOCIATION""
+ 'LARGE SCALE FARMER' 'OTHER']"
+"ag12a_0b","NGO","['SERIKALI' 'NGO' 'USHIRIKA / CHAMA CHA WAKU' 'MKULIMA/MFUGAJI MKUBWA'
+ 'NYINGINE, TAJA' 'GOVERNMENT EXTENSION' ""COOPERATIVE/FARMER'S ASSO""
+ 'LARGE SCALE FARMER' 'OTHER']"
+"ag12a_01","NO",['YES' 'NO']
+"ag12a_02_1",nan,['YES' 'NO' nan]
+"ag12a_02_2",nan,['YES' 'NO' nan]
+"ag12a_02_3",nan,['YES' 'NO' nan]
+"ag12a_02_4",nan,['YES' 'NO' nan]
+"ag12a_02_5",nan,['YES' 'NO' nan]
+"ag12a_02_6",nan,['YES' 'NO' nan]
+"ag12a_03",nan,['GOOD' 'AVERAGE' 'BAD' nan]
+"ag12a_04",nan,['YES' 'NO' nan]
+"ag12a_05",nan,"[     nan    1000.    3500.    7500.   11200.   16000.  200000.    1500.
+    5000.    1200.   20000.    3000.   10000.    2500.    8000.   12000.
+    2000.   40000.   17000.    6000.     300.    4500.     500.]"
+"ag12a_06",nan,[  1.  nan   2.   0.  24.   4.  12.   3.   6.  40.  99.   5.  10.  30.  25.]

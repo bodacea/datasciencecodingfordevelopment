@@ -1,0 +1,185 @@
+ISO3166,Country / Territory,CPI 2011 Score,Country Rank
+---,,,
+NZL,New Zealand,9.5,1
+DNK,Denmark,9.4,2
+FIN,Finland,9.4,2
+SWE,Sweden,9.3,4
+SGP,Singapore,9.2,5
+NOR,Norway,9.0,6
+NLD,Netherlands,8.9,7
+AUS,Australia,8.8,8
+CHE,Switzerland,8.8,8
+CAN,Canada,8.7,10
+LUX,Luxembourg,8.5,11
+HKG,Hong Kong,8.4,12
+ISL,Iceland,8.3,13
+DEU,Germany,8.0,14
+JPN,Japan,8.0,14
+AUT,Austria,7.8,16
+BRB,Barbados,7.8,16
+GBR,United Kingdom,7.8,16
+BEL,Belgium,7.5,19
+IRL,Ireland,7.5,19
+BHS,Bahamas,7.3,21
+CHL,Chile,7.2,22
+QAT,Qatar,7.2,22
+USA,United States,7.1,24
+FRA,France,7.0,25
+LCA,Saint Lucia,7.0,25
+URY,Uruguay,7.0,25
+ARE,United Arab Emirates,6.8,28
+EST,Estonia,6.4,29
+CYP,Cyprus,6.3,30
+ESP,Spain,6.2,31
+BWA,Botswana,6.1,32
+PRT,Portugal,6.1,32
+---,Taiwan,6.1,32
+SVN,Slovenia,5.9,35
+ISR,Israel,5.8,36
+VCT,Saint Vincent and the Grenadines,5.8,36
+BTN,Bhutan,5.7,38
+MLT,Malta,5.6,39
+PRI,Puerto Rico,5.6,39
+CPV,Cape Verde,5.5,41
+POL,Poland,5.5,41
+---,Korea (South),5.4,43
+BRN,Brunei,5.2,44
+DMA,Dominica,5.2,44
+BHR,Bahrain,5.1,46
+---,Macau,5.1,46
+MUS,Mauritius,5.1,46
+RWA,Rwanda,5.0,49
+CRI,Costa Rica,4.8,50
+LTU,Lithuania,4.8,50
+OMN,Oman,4.8,50
+SYC,Seychelles,4.8,50
+HUN,Hungary,4.6,54
+KWT,Kuwait,4.6,54
+JOR,Jordan,4.5,56
+CZE,Czech Republic,4.4,57
+NAM,Namibia,4.4,57
+SAU,Saudi Arabia,4.4,57
+MYS,Malaysia,4.3,60
+CUB,Cuba,4.2,61
+LVA,Latvia,4.2,61
+TUR,Turkey,4.2,61
+GEO,Georgia,4.1,64
+ZAF,South Africa,4.1,64
+HRV,Croatia,4.0,66
+MNE,Montenegro,4.0,66
+SVK,Slovakia,4.0,66
+GHA,Ghana,3.9,69
+ITA,Italy,3.9,69
+---,FYR Macedonia,3.9,69
+WSM,Samoa,3.9,69
+BRA,Brazil,3.8,73
+TUN,Tunisia,3.8,73
+CHN,China,3.6,75
+ROU,Romania,3.6,75
+GMB,Gambia,3.5,77
+LSO,Lesotho,3.5,77
+VUT,Vanuatu,3.5,77
+COL,Colombia,3.4,80
+SLV,El Salvador,3.4,80
+GRC,Greece,3.4,80
+MAR,Morocco,3.4,80
+PER,Peru,3.4,80
+THA,Thailand,3.4,80
+BGR,Bulgaria,3.3,86
+JAM,Jamaica,3.3,86
+PAN,Panama,3.3,86
+SRB,Serbia,3.3,86
+LKA,Sri Lanka,3.3,86
+BIH,Bosnia and Herzegovina,3.2,91
+LBR,Liberia,3.2,91
+TTO,Trinidad and Tobago,3.2,91
+ZMB,Zambia,3.2,91
+ALB,Albania,3.1,95
+IND,India,3.1,95
+KIR,Kiribati,3.1,95
+SWZ,Swaziland,3.1,95
+TON,Tonga,3.1,95
+ARG,Argentina,3.0,100
+BEN,Benin,3.0,100
+BFA,Burkina Faso,3.0,100
+DJI,Djibouti,3.0,100
+GAB,Gabon,3.0,100
+IDN,Indonesia,3.0,100
+MDG,Madagascar,3.0,100
+MWI,Malawi,3.0,100
+MEX,Mexico,3.0,100
+STP,Sao Tome & Principe,3.0,100
+SUR,Suriname,3.0,100
+TZA,Tanzania,3.0,100
+DZA,Algeria,2.9,112
+EGY,Egypt,2.9,112
+---,Kosovo,2.9,112
+MDA,Moldova,2.9,112
+SEN,Senegal,2.9,112
+VNM,Vietnam,2.9,112
+BOL,Bolivia,2.8,118
+MLI,Mali,2.8,118
+BGD,Bangladesh,2.7,120
+ECU,Ecuador,2.7,120
+ETH,Ethiopia,2.7,120
+GTM,Guatemala,2.7,120
+IRN,Iran,2.7,120
+KAZ,Kazakhstan,2.7,120
+MNG,Mongolia,2.7,120
+MOZ,Mozambique,2.7,120
+SLB,Solomon Islands,2.7,120
+ARM,Armenia,2.6,129
+DOM,Dominican Republic,2.6,129
+HND,Honduras,2.6,129
+PHL,Philippines,2.6,129
+SYR,Syria,2.6,129
+CMR,Cameroon,2.5,134
+ERI,Eritrea,2.5,134
+GUY,Guyana,2.5,134
+LBN,Lebanon,2.5,134
+MDV,Maldives,2.5,134
+NIC,Nicaragua,2.5,134
+NER,Niger,2.5,134
+PAK,Pakistan,2.5,134
+SLE,Sierra Leone,2.5,134
+AZE,Azerbaijan,2.4,143
+BLR,Belarus,2.4,143
+COM,Comoros,2.4,143
+MRT,Mauritania,2.4,143
+NGA,Nigeria,2.4,143
+RUS,Russia,2.4,143
+TLS,Timor-Leste,2.4,143
+TGO,Togo,2.4,143
+UGA,Uganda,2.4,143
+TJK,Tajikistan,2.3,152
+UKR,Ukraine,2.3,152
+CAF,Central African Republic,2.2,154
+---,Congo  Republic,2.2,154
+---,Côte d´Ivoire,2.2,154
+GNB,Guinea-Bissau,2.2,154
+KEN,Kenya,2.2,154
+---,Laos,2.2,154
+NPL,Nepal,2.2,154
+PNG,Papua New Guinea,2.2,154
+PRY,Paraguay,2.2,154
+ZWE,Zimbabwe,2.2,154
+KHM,Cambodia,2.1,164
+GIN,Guinea,2.1,164
+KGZ,Kyrgyzstan,2.1,164
+YEM,Yemen,2.1,164
+AGO,Angola,2.0,168
+TCD,Chad,2.0,168
+COD,Democratic Republic of the Congo ,2.0,168
+LBY,Libya,2.0,168
+BDI,Burundi,1.9,172
+GNQ,Equatorial Guinea,1.9,172
+VEN,Venezuela,1.9,172
+HTI,Haiti,1.8,175
+IRQ,Iraq,1.8,175
+SDN,Sudan,1.6,177
+TKM,Turkmenistan,1.6,177
+UZB,Uzbekistan,1.6,177
+AFG,Afghanistan,1.5,180
+MMR,Myanmar,1.5,180
+---,Korea (North),1.0,182
+SOM,Somalia,1.0,182

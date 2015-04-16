@@ -1,0 +1,18 @@
+"Extracted from the UNHCR Population Statistics Reference Database","United Nations High Commissioner for Refugees"
+"Date extracted: 2015-03-02 12:05:00 +01:00"
+
+Year,"Country / territory of asylum/residence","Origin / Returned from",Refugees,Asylum-seekers,"Returned refugees",IDPs,"Returned IDPs","Stateless persons","Others of concern","Total Population"
+#period_date,#country,#origin,#impact1+#aff_num,#impact1+#aff_num,#impact1+#aff_num,#impact1+#aff_num,#impact1+#aff_num,#impact1+#aff_num,#impact1+#aff_num,#impact1+#aff_num
+2014,Kenya,Burundi,23,140,,,,,,163
+2014,Kenya,Cameroon,*,,,,,,,
+2014,Kenya,Congo,,*,,,,,,
+2014,Kenya,"Dem. Rep. of the Congo",175,77,,,,,,252
+2014,Kenya,Eritrea,37,*,,,,,,37
+2014,Kenya,Ethiopia,15543,2872,,,,,,18415
+2014,Kenya,Pakistan,*,,,,,,,
+2014,Kenya,Rwanda,11,6,,,,,,17
+2014,Kenya,Somalia,338796,255,,,,,,339051
+2014,Kenya,"South Sudan",1244,91,,,,,,1335
+2014,Kenya,Sudan,63,6,,,,,,69
+2014,Kenya,Uganda,53,7,,,,,,60
+2014,Kenya,"United Rep. of Tanzania",*,6,,,,,,6
